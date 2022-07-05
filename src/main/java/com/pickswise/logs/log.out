@@ -1,0 +1,73 @@
+2022-07-05 19:07:749 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-07-05 19:07:491 INFO  HomePage :34 - Clicking on start accept cookies[[ChromeDriver: chrome on WINDOWS (d77dfcefa17dc7cea42c7c074db25c33)] -> xpath: //button[@id='truste-consent-button']]
+2022-07-05 19:07:637 INFO  HomePage :40 - Clicking on allSports Button Button[[ChromeDriver: chrome on WINDOWS (d77dfcefa17dc7cea42c7c074db25c33)] -> xpath: //div[@class='Select_select__24c5n']]
+2022-07-05 19:07:831 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-07-05 19:07:258 INFO  HomePage :34 - Clicking on start accept cookies[[ChromeDriver: chrome on WINDOWS (da952b09bfc578872fa12a46bcab303b)] -> xpath: //button[@id='truste-consent-button']]
+2022-07-05 19:07:482 INFO  HomePage :40 - Clicking on allSports Button Button[[ChromeDriver: chrome on WINDOWS (da952b09bfc578872fa12a46bcab303b)] -> xpath: //div[@class='Select_select__24c5n']]
+2022-07-05 19:07:191 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-07-05 19:07:103 INFO  HomePage :38 - Clicking on start accept cookies[[ChromeDriver: chrome on WINDOWS (7e5d2de079ca4bcb00dacbd7a4735565)] -> xpath: //button[@id='truste-consent-button']]
+2022-07-05 19:07:572 WARN  HashedWheelTimer :672 - An exception was thrown by TimerTask.
+java.lang.IllegalStateException: cannot be started once stopped
+	at io.netty.util.HashedWheelTimer.start(HashedWheelTimer.java:338)
+	at io.netty.util.HashedWheelTimer.newTimeout(HashedWheelTimer.java:413)
+	at org.asynchttpclient.netty.channel.DefaultChannelPool.scheduleNewIdleChannelDetector(DefaultChannelPool.java:95)
+	at org.asynchttpclient.netty.channel.DefaultChannelPool.access$900(DefaultChannelPool.java:43)
+	at org.asynchttpclient.netty.channel.DefaultChannelPool$IdleChannelDetector.run(DefaultChannelPool.java:378)
+	at io.netty.util.HashedWheelTimer$HashedWheelTimeout.expire(HashedWheelTimer.java:669)
+	at io.netty.util.HashedWheelTimer$HashedWheelBucket.expireTimeouts(HashedWheelTimer.java:744)
+	at io.netty.util.HashedWheelTimer$Worker.run(HashedWheelTimer.java:469)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:748)
+2022-07-05 20:07:952 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-07-05 20:07:767 INFO  HomePage :38 - Clicking on start accept cookies[[ChromeDriver: chrome on WINDOWS (0add28a155263f37a95f8f442bbfedd4)] -> xpath: //button[@id='truste-consent-button']]
+2022-07-05 20:07:912 INFO  HomePage :44 - Clicking on allSports Button Button[[ChromeDriver: chrome on WINDOWS (0add28a155263f37a95f8f442bbfedd4)] -> xpath: //div[@class='Select_select__24c5n']]
+2022-07-05 20:07:87 INFO  HomePage :50 - Selecting kbo from droppdownKBO from dropdown [[ChromeDriver: chrome on WINDOWS (0add28a155263f37a95f8f442bbfedd4)] -> xpath: //select[@class='Select_select__24c5n']]
+2022-07-05 20:07:715 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-07-05 20:07:54 INFO  HomePage :47 - Clicking on start accept cookies[[ChromeDriver: chrome on WINDOWS (bdccfef8140d958f47247acf9a6d8ab4)] -> xpath: //button[@id='truste-consent-button']]
+2022-07-05 20:07:226 INFO  HomePage :53 - Clicking on allSports Button Button[[ChromeDriver: chrome on WINDOWS (bdccfef8140d958f47247acf9a6d8ab4)] -> xpath: //div[@class='Select_select__24c5n']]
+2022-07-05 20:07:411 INFO  HomePage :59 - Selecting kbo from droppdownKBO from dropdown [[ChromeDriver: chrome on WINDOWS (bdccfef8140d958f47247acf9a6d8ab4)] -> xpath: //select[@class='Select_select__24c5n']]
+2022-07-05 21:07:784 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-07-05 21:07:407 INFO  HomePage :47 - Clicking on start accept cookies[[ChromeDriver: chrome on WINDOWS (405a71725bfd8ba3ec2cc4743718e62e)] -> xpath: //button[@id='truste-consent-button']]
+2022-07-05 21:07:591 INFO  HomePage :53 - Clicking on allSports Button Button[[ChromeDriver: chrome on WINDOWS (405a71725bfd8ba3ec2cc4743718e62e)] -> xpath: //div[@class='Select_select__24c5n']]
+2022-07-05 21:07:734 INFO  HomePage :59 - Selecting kbo from droppdownKBO from dropdown [[ChromeDriver: chrome on WINDOWS (405a71725bfd8ba3ec2cc4743718e62e)] -> xpath: //select[@class='Select_select__24c5n']]
+2022-07-05 21:07:858 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-07-05 21:07:823 INFO  HomePage :47 - Clicking on start accept cookies[[ChromeDriver: chrome on WINDOWS (477fa111c94f0d14cd25b2b2dd1f2fbc)] -> xpath: //button[@id='truste-consent-button']]
+2022-07-05 21:07:333 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-07-05 21:07:07 INFO  HomePage :47 - Clicking on start accept cookies[[ChromeDriver: chrome on WINDOWS (eb73215a0da57cad291a6eab05de9dc0)] -> xpath: //button[@id='truste-consent-button']]
+2022-07-05 21:07:335 INFO  HomePage :53 - Clicking on allSports Button Button[[ChromeDriver: chrome on WINDOWS (eb73215a0da57cad291a6eab05de9dc0)] -> xpath: //div[@class='Select_select__24c5n']]
+2022-07-05 21:07:712 INFO  HomePage :59 - Selecting kbo from droppdownKBO from dropdown [[ChromeDriver: chrome on WINDOWS (eb73215a0da57cad291a6eab05de9dc0)] -> xpath: //select[@class='Select_select__24c5n']]
+2022-07-05 21:07:880 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-07-05 21:07:981 INFO  HomePage :47 - Clicking on start accept cookies[[ChromeDriver: chrome on WINDOWS (0251997f702b3719a5526d9ee5929514)] -> xpath: //button[@id='truste-consent-button']]
+2022-07-05 21:07:412 INFO  HomePage :53 - Clicking on allSports Button Button[[ChromeDriver: chrome on WINDOWS (0251997f702b3719a5526d9ee5929514)] -> xpath: //div[@class='Select_select__24c5n']]
+2022-07-05 21:07:786 INFO  HomePage :59 - Selecting kbo from droppdownKBO from dropdown [[ChromeDriver: chrome on WINDOWS (0251997f702b3719a5526d9ee5929514)] -> xpath: //select[@class='Select_select__24c5n']]
+2022-07-05 21:07:10 INFO  HomePage :59 - Selecting kbo from droppdownKBO from dropdown [[ChromeDriver: chrome on WINDOWS (0251997f702b3719a5526d9ee5929514)] -> xpath: //select[@class='Select_select__24c5n']]
+2022-07-05 21:07:473 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-07-05 21:07:669 INFO  HomePage :47 - Clicking on start accept cookies[[ChromeDriver: chrome on WINDOWS (84d64d4b1ff92d66e6208e8da1fdba9d)] -> xpath: //button[@id='truste-consent-button']]
+2022-07-05 21:07:414 INFO  HomePage :53 - Clicking on allSports Button Button[[ChromeDriver: chrome on WINDOWS (84d64d4b1ff92d66e6208e8da1fdba9d)] -> xpath: //div[@class='Select_select__24c5n']]
+2022-07-05 21:07:731 INFO  HomePage :59 - Selecting kbo from droppdownKBO from dropdown [[ChromeDriver: chrome on WINDOWS (84d64d4b1ff92d66e6208e8da1fdba9d)] -> xpath: //select[@class='Select_select__24c5n']]
+2022-07-05 21:07:913 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-07-05 21:07:889 INFO  HomePage :47 - Clicking on start accept cookies[[ChromeDriver: chrome on WINDOWS (103d95fbab982e5dc8bca2f94e56a41d)] -> xpath: //button[@id='truste-consent-button']]
+2022-07-05 21:07:245 INFO  HomePage :53 - Clicking on allSports Button Button[[ChromeDriver: chrome on WINDOWS (103d95fbab982e5dc8bca2f94e56a41d)] -> xpath: //div[@class='Select_select__24c5n']]
+2022-07-05 21:07:624 INFO  HomePage :59 - Selecting kbo from droppdownKBO from dropdown [[ChromeDriver: chrome on WINDOWS (103d95fbab982e5dc8bca2f94e56a41d)] -> xpath: //select[@class='Select_select__24c5n']]
+2022-07-05 21:07:886 INFO  HomePage :59 - Selecting kbo from droppdownKBO from dropdown [[ChromeDriver: chrome on WINDOWS (103d95fbab982e5dc8bca2f94e56a41d)] -> xpath: //select[@class='Select_select__24c5n']]
+2022-07-05 21:07:766 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-07-05 21:07:864 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-07-05 21:07:199 INFO  HomePage :47 - Clicking on start accept cookies[[ChromeDriver: chrome on WINDOWS (7b96aa5a65c7f7553362398128676bb0)] -> xpath: //button[@id='truste-consent-button']]
+2022-07-05 21:07:583 INFO  HomePage :53 - Clicking on allSports Button Button[[ChromeDriver: chrome on WINDOWS (7b96aa5a65c7f7553362398128676bb0)] -> xpath: //div[@class='Select_select__24c5n']]
+2022-07-05 21:07:245 INFO  HomePage :59 - Selecting kbo from droppdownKBO from dropdown [[ChromeDriver: chrome on WINDOWS (7b96aa5a65c7f7553362398128676bb0)] -> xpath: //select[@class='Select_select__24c5n']]
+2022-07-05 21:07:606 INFO  HomePage :59 - Selecting kbo from droppdownKBO from dropdown [[ChromeDriver: chrome on WINDOWS (7b96aa5a65c7f7553362398128676bb0)] -> xpath: //select[@class='Select_select__24c5n']]
+2022-07-05 21:07:519 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-07-05 21:07:428 INFO  HomePage :47 - Clicking on start accept cookies[[ChromeDriver: chrome on WINDOWS (2892ed256eb65da520c55c88f9f016b9)] -> xpath: //button[@id='truste-consent-button']]
+2022-07-05 21:07:867 INFO  HomePage :53 - Clicking on allSports Button Button[[ChromeDriver: chrome on WINDOWS (2892ed256eb65da520c55c88f9f016b9)] -> xpath: //div[@class='Select_select__24c5n']]
+2022-07-05 21:07:618 INFO  HomePage :59 - Selecting kbo from droppdownKBO from dropdown [[ChromeDriver: chrome on WINDOWS (2892ed256eb65da520c55c88f9f016b9)] -> xpath: //select[@class='Select_select__24c5n']]
+2022-07-05 21:07:890 INFO  HomePage :59 - Selecting kbo from droppdownKBO from dropdown [[ChromeDriver: chrome on WINDOWS (2892ed256eb65da520c55c88f9f016b9)] -> xpath: //select[@class='Select_select__24c5n']]
+2022-07-05 21:07:532 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-07-05 21:07:86 INFO  HomePage :47 - Clicking on start accept cookies[[ChromeDriver: chrome on WINDOWS (cfb7f2b1cf6cce5d9ae111c9a7031a7d)] -> xpath: //button[@id='truste-consent-button']]
+2022-07-05 21:07:390 INFO  HomePage :53 - Clicking on allSports Button Button[[ChromeDriver: chrome on WINDOWS (cfb7f2b1cf6cce5d9ae111c9a7031a7d)] -> xpath: //div[@class='Select_select__24c5n']]
+2022-07-05 21:07:851 INFO  HomePage :59 - Selecting kbo from droppdownKBO from dropdown [[ChromeDriver: chrome on WINDOWS (cfb7f2b1cf6cce5d9ae111c9a7031a7d)] -> xpath: //select[@class='Select_select__24c5n']]
+2022-07-05 21:07:10 INFO  HomePage :59 - Selecting kbo from droppdownKBO from dropdown [[ChromeDriver: chrome on WINDOWS (cfb7f2b1cf6cce5d9ae111c9a7031a7d)] -> xpath: //select[@class='Select_select__24c5n']]
+2022-07-05 21:07:856 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-07-05 21:07:317 INFO  HomePage :47 - Clicking on start accept cookies[[ChromeDriver: chrome on WINDOWS (7cd63e08f482c7b290c90a9021312132)] -> xpath: //button[@id='truste-consent-button']]
+2022-07-05 21:07:690 INFO  HomePage :53 - Clicking on allSports Button Button[[ChromeDriver: chrome on WINDOWS (7cd63e08f482c7b290c90a9021312132)] -> xpath: //div[@class='Select_select__24c5n']]
+2022-07-05 21:07:109 INFO  HomePage :59 - Selecting kbo from droppdownKBO from dropdown [[ChromeDriver: chrome on WINDOWS (7cd63e08f482c7b290c90a9021312132)] -> xpath: //select[@class='Select_select__24c5n']]
+2022-07-05 21:07:345 INFO  HomePage :59 - Selecting kbo from droppdownKBO from dropdown [[ChromeDriver: chrome on WINDOWS (7cd63e08f482c7b290c90a9021312132)] -> xpath: //select[@class='Select_select__24c5n']]
