@@ -5,7 +5,7 @@ Feature: Droppdown  Functionality
   Scenario: Spotlight Test Ticket - Next Up Droppdown  Functionality
     Given I am on home page of pickswise
     When  I click on accpet cookies
-    And   I click on to close White shine pop up
+    And   I click on to close Wise N shine pop up
     And   I click on All Sports button
     Then I  can see an available list of valid Sports to filter by
 
@@ -13,7 +13,7 @@ Feature: Droppdown  Functionality
   Scenario: Spotlight Test Ticket - Varify KBO sport list  Functionality
     Given I am on home page of pickswise
     When  I click on accpet cookies
-    And   I click on to close White shine pop up
+    And   I click on to close Wise N shine pop up
     And   I click on All Sports button
     And I  can see an available list of valid Sports to filter by
     And I can click KBO sport from droppdown

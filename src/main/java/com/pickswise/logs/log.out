@@ -127,3 +127,9 @@ java.lang.IllegalStateException: cannot be started once stopped
 2022-07-11 22:07:506 INFO  HomePage :64 - Clicking on allSports Button Button[[ChromeDriver: chrome on WINDOWS (082c08a6e2cf05759a18e1014f657ec2)] -> xpath: //div[@class='Select_select__24c5n']]
 2022-07-11 22:07:67 INFO  HomePage :70 - Selecting kbo from droppdownKBO from dropdown [[ChromeDriver: chrome on WINDOWS (082c08a6e2cf05759a18e1014f657ec2)] -> xpath: //select[@class='Select_select__24c5n']]
 2022-07-11 22:07:274 INFO  HomePage :70 - Selecting kbo from droppdownKBO from dropdown [[ChromeDriver: chrome on WINDOWS (082c08a6e2cf05759a18e1014f657ec2)] -> xpath: //select[@class='Select_select__24c5n']]
+2022-07-11 23:07:263 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-07-11 23:07:605 INFO  HomePage :52 - Clicking on start accept cookies[[ChromeDriver: chrome on WINDOWS (e43469b7be5c6b01200a2cf11b42ea7e)] -> xpath: //button[@id='truste-consent-button']]
+2022-07-11 23:07:266 INFO  HomePage :57 - Clicking on close WhiteShinePopUp[[ChromeDriver: chrome on WINDOWS (e43469b7be5c6b01200a2cf11b42ea7e)] -> xpath: //button[@class='ab-close-button']]
+2022-07-11 23:07:391 INFO  HomePage :64 - Clicking on allSports Button Button[[ChromeDriver: chrome on WINDOWS (e43469b7be5c6b01200a2cf11b42ea7e)] -> xpath: //div[@class='Select_select__24c5n']]
+2022-07-11 23:07:590 INFO  HomePage :70 - Selecting kbo from droppdownKBO from dropdown [[ChromeDriver: chrome on WINDOWS (e43469b7be5c6b01200a2cf11b42ea7e)] -> xpath: //select[@class='Select_select__24c5n']]
+2022-07-11 23:07:697 INFO  HomePage :70 - Selecting kbo from droppdownKBO from dropdown [[ChromeDriver: chrome on WINDOWS (e43469b7be5c6b01200a2cf11b42ea7e)] -> xpath: //select[@class='Select_select__24c5n']]

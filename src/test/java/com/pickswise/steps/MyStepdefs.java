@@ -41,8 +41,10 @@ public class MyStepdefs {
         Assert.assertEquals("Not navigate to kbo list", "KIA @ LG", new HomePage().selectsport());
     }
 
-    @And("^I click on to close White shine pop up$")
-    public void iClickOnToCloseWhiteShinePopUp() {
+
+
+    @And("^I click on to close Wise N shine pop up$")
+    public void iClickOnToCloseWiseNShinePopUp() {
         new HomePage().clickOnCloseWhiteShinePopUp();
     }
 }

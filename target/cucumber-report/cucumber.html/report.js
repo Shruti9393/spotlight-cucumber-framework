@@ -7,7 +7,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 12276676100,
+  "duration": 10386710700,
   "status": "passed"
 });
 formatter.scenario({
@@ -36,7 +36,7 @@ formatter.step({
 });
 formatter.step({
   "line": 16,
-  "name": "I click on to close White shine pop up",
+  "name": "I click on to close Wise N shine pop up",
   "keyword": "And "
 });
 formatter.step({
@@ -63,53 +63,53 @@ formatter.match({
   "location": "MyStepdefs.iAmOnHomePageOfPickswise()"
 });
 formatter.result({
-  "duration": 196912700,
+  "duration": 298622700,
   "status": "passed"
 });
 formatter.match({
   "location": "MyStepdefs.iClickOnAccpetCookies()"
 });
 formatter.result({
-  "duration": 226597600,
+  "duration": 351180100,
   "status": "passed"
 });
 formatter.match({
-  "location": "MyStepdefs.iClickOnToCloseWhiteShinePopUp()"
+  "location": "MyStepdefs.iClickOnToCloseWiseNShinePopUp()"
 });
 formatter.result({
-  "duration": 2993416600,
+  "duration": 1655524000,
   "status": "passed"
 });
 formatter.match({
   "location": "MyStepdefs.iClickOnAllSportsButton()"
 });
 formatter.result({
-  "duration": 5612456200,
+  "duration": 5122248700,
   "status": "passed"
 });
 formatter.match({
   "location": "MyStepdefs.iCanSeeAnAvailableListOfValidSportsToFilterBy()"
 });
 formatter.result({
-  "duration": 4547140300,
+  "duration": 4193199800,
   "status": "passed"
 });
 formatter.match({
   "location": "MyStepdefs.iCanClickKBOSportFromDroppdown()"
 });
 formatter.result({
-  "duration": 201845600,
+  "duration": 105503300,
   "status": "passed"
 });
 formatter.match({
   "location": "MyStepdefs.iShouldSeeAllKBOSportsList()"
 });
 formatter.result({
-  "duration": 290467700,
+  "duration": 117609600,
   "status": "passed"
 });
 formatter.after({
-  "duration": 651600,
+  "duration": 1054995700,
   "status": "passed"
 });
 });
