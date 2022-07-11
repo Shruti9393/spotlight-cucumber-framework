@@ -19,12 +19,14 @@ public class MyStepdefs {
     }
 
     @And("^I click on All Sports button$")
-    public void iClickOnAllSportsButton() {
+    public void iClickOnAllSportsButton() throws InterruptedException {
+        Thread.sleep(5000);
         new HomePage().clickOnSportsButton();
     }
 
     @Then("^I  can see an available list of valid Sports to filter by$")
-    public void iCanSeeAnAvailableListOfValidSportsToFilterBy() {
+    public void iCanSeeAnAvailableListOfValidSportsToFilterBy() throws InterruptedException {
+        Thread.sleep(4000);
         new HomePage().selectkbofromdroppdown("KBO");
     }
 
@@ -36,6 +38,11 @@ public class MyStepdefs {
     @Then("^I should see all KBO sports list$")
     public void iShouldSeeAllKBOSportsList() {
         new HomePage().selectsport();
-        Assert.assertEquals("Not navigate to kbo list", "WIZ @ KIA", new HomePage().selectsport());
+        Assert.assertEquals("Not navigate to kbo list", "KIA @ LG", new HomePage().selectsport());
+    }
+
+    @And("^I click on to close White shine pop up$")
+    public void iClickOnToCloseWhiteShinePopUp() {
+        new HomePage().clickOnCloseWhiteShinePopUp();
     }
 }

@@ -27,6 +27,12 @@ public class HomePage extends Utility {
     @FindBy(xpath = "//button[@id='truste-consent-button']")
     WebElement acceptCookies;
 
+    //button[@aria-label='Close Message']
+
+    @CacheLookup
+    @FindBy(xpath = "//button[@class='ab-close-button']")
+    WebElement closeWhiteShinePopUp;
+
     @CacheLookup
     @FindBy(xpath = "//div[@class='Select_select__24c5n']")
     WebElement allSportsButtonClick;
@@ -45,6 +51,12 @@ public class HomePage extends Utility {
         clickOnElement(acceptCookies);
         log.info("Clicking on start accept cookies" + acceptCookies.toString());
     }
+    //click on close white shine popup
+    public void clickOnCloseWhiteShinePopUp() {
+        clickOnElement(closeWhiteShinePopUp);
+        log.info("Clicking on close WhiteShinePopUp" + closeWhiteShinePopUp.toString());
+    }
+
 
     //    click on All sports button
     public void clickOnSportsButton() {
